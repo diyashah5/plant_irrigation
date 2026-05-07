@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Ensure fonts look crisp */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
